@@ -6,22 +6,20 @@ AI-Powered Budget Management is a smart personal finance assistant that helps us
 
 ---
 
-## Table of Contents
+## Table of Contents  
+- [Introduction](#introduction)  
+- [Functional Requirements](#functional-requirements)  
+- [Non-Functional Requirements](#non-functional-requirements)  
+- [System Design & Implementation](#system-design--implementation)  
+  - [MVC Architecture](#mvc-architecture)  
+- [Technology Stack](#technology-stack)  
+- [Database Description](#database-description)  
+- [Module Description](#module-description)  
+- [Services](#services)  
+- [Results and Discussions](#results-and-discussions)  
+- [Testing](#testing)  
+- [Conclusion & Future Scope](#conclusion--future-scope)  
 
-- Introduction  
-- Functional Requirements  
-- Non-Functional Requirements  
-- System Design & Implementation  
-- MVC Architecture  
-- Technology Stack  
-- Database Description  
-- Module Description  
-- Services  
-- Results and Discussions  
-- Testing  
-- Conclusion & Future Scope  
-- Snapshots  
-- Reports  
 
 ---
 
