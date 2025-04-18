@@ -7,7 +7,8 @@ AI-Powered Budget Management is a smart personal finance assistant that helps us
 ---
 
 ## Table of Contents  
-- [Introduction](#introduction)  
+- [Introduction](#introduction)
+- [Screenshots](#screenshots) 
 - [Functional Requirements](#functional-requirements)  
 - [Non-Functional Requirements](#non-functional-requirements)  
 - [System Design & Implementation](#system-design--implementation)  
@@ -29,7 +30,7 @@ The system addresses common issues faced in budgeting, such as manual tracking, 
 
 ---
 
-## Screenshots
+## 📸Screenshots
 
 #### Dashboard
 ![Screenshot 2025-04-14 185332](https://github.com/user-attachments/assets/9743c950-90bd-43dc-83dd-9fc766bbfa9a)
