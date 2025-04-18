@@ -32,8 +32,7 @@ The system addresses common issues faced in budgeting, such as manual tracking, 
 ## Screenshots
 
 #### Dashboard
-![Dashboard](![Screenshot 2025-04-14 185332](https://github.com/user-attachments/assets/9743c950-90bd-43dc-83dd-9fc766bbfa9a)
-)
+![Screenshot 2025-04-14 185332](https://github.com/user-attachments/assets/9743c950-90bd-43dc-83dd-9fc766bbfa9a)
 
 ---
 
